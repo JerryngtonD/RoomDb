@@ -1,0 +1,2 @@
+rootProject.name='AppDb'
+include ':app'
